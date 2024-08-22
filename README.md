@@ -2,6 +2,6 @@
 Applying Filters on Image
 
 Done By:
-Sama Ashraf Ahmed - 
-Shahd Mohammed Abd El-Monjy - 
+Sama Ashraf Ahmed 
+Shahd Mohammed Abd El-Monjy 
 Shouq Mohammed Desokey
